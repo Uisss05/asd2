@@ -1,0 +1,6 @@
+JWT_SECRET=3b2fa52c-86b1-417d-96a9-e2e9c1639c9f
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=blog_artikel
+PORT = 5000
